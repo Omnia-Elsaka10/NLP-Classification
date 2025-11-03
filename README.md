@@ -61,5 +61,10 @@ The following machine learning models were trained and compared:
 
 ---
 
-## 📁 Project Structure
+
+## 🚀 How to Run
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Omnia-Elsaka10/NLP-Classification.git
 
